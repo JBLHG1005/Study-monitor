@@ -1,1 +1,18 @@
+[
+    {
+        "subject": "Computer Science",
+        "minutes": 50,
+        "date": "2026-11-21 14:30"
+    },
+    {
+        "subject": "Mathematics",
+        "minutes": 25,
+        "date": "2026-11-22 10:15"
+    },
+    {
+        "subject": "Computer Science",
+        "minutes": 40,
+        "date": "2026-11-23 09:00"
+    }
+]
 
